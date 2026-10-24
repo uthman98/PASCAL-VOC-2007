@@ -79,8 +79,7 @@ Label indices start at 1 and follow the class order above (0 = background).
 | File | Description |
 |------|-------------|
 | `PASCAL_VOC_2007.ipynb` | The full pipeline: data, training, evaluation and inference |
-| `best_model.pth` | Fine-tuned weights (~166 MB) |
-| `images.jpeg`, `*.webp` | Example images used to test the model on real-world photos |
+
 
 ## Acknowledgements
 
